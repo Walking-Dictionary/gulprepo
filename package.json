@@ -1,0 +1,23 @@
+{
+  "name": "karma-seed",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+}
+
+{
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "jasmine-core": "^2.2.0",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
